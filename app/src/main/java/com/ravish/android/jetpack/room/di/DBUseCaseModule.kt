@@ -1,6 +1,6 @@
 package com.ravish.android.jetpack.room.di
 
-import com.ravish.android.jetpack.room.DBUseCaseImpl
+import com.ravish.android.jetpack.room.db.DBUseCaseImpl
 import com.ravish.android.jetpack.room.db.AppDatabase
 import com.ravish.android.jetpack.room.db.DBUseCase
 import dagger.Module

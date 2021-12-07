@@ -1,7 +1,5 @@
-package com.ravish.android.jetpack.room
+package com.ravish.android.jetpack.room.db
 
-import com.ravish.android.jetpack.room.db.AppDatabase
-import com.ravish.android.jetpack.room.db.DBUseCase
 import com.ravish.android.jetpack.room.db.entity.User
 import javax.inject.Inject
 
